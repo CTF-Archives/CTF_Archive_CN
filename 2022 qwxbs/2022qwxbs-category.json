@@ -1,0 +1,121 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 5,
+        "lists": [
+            {
+                "id": "947",
+                "category": "Misc",
+                "sort": "1",
+                "description": "Misc题",
+                "encrypt_category_id": "ADxQMlRq",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1258494",
+                            "title": "misc1"
+                        },
+                        {
+                            "id": "1258493",
+                            "title": "misc2"
+                        },
+                        {
+                            "id": "1258492",
+                            "title": "misc3"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "948",
+                "category": "Crypto",
+                "sort": "2",
+                "description": "Crypto题",
+                "encrypt_category_id": "Az9RM1Ni",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1258496",
+                            "title": "crypto1"
+                        },
+                        {
+                            "id": "1258495",
+                            "title": "crypto2"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "949",
+                "category": "PWN",
+                "sort": "3",
+                "description": "PWN题",
+                "encrypt_category_id": "AT1XNQMz",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1258499",
+                            "title": "pwn1"
+                        },
+                        {
+                            "id": "1258498",
+                            "title": "pwn2"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "950",
+                "category": "Reverse",
+                "sort": "4",
+                "description": "Reverse题",
+                "encrypt_category_id": "BTlbOAM6",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1258490",
+                            "title": "re1"
+                        },
+                        {
+                            "id": "1258489",
+                            "title": "re2"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "951",
+                "category": "Web",
+                "sort": "5",
+                "description": "Web题",
+                "encrypt_category_id": "Az9TMFRs",
+                "question": {
+                    "total": 4,
+                    "lists": [
+                        {
+                            "id": "1258503",
+                            "title": "web1"
+                        },
+                        {
+                            "id": "1258502",
+                            "title": "web2"
+                        },
+                        {
+                            "id": "1258501",
+                            "title": "web3"
+                        },
+                        {
+                            "id": "1258500",
+                            "title": "web4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
