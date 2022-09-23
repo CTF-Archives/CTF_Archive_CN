@@ -1,0 +1,4788 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 91,
+        "lists": [
+            {
+                "id": "1122588",
+                "content": "行为人通过计算机操作所实施的危害计算机信息系统（包括内存数据及程序）安全以及其他严重危害社会的并应当处以刑罚的行为是（）",
+                "title": "单选题001",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "故意伤害他人",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "计算机犯罪",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "破坏他人财产",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "破坏公共财物",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:02:30",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:02:30",
+                "is_lock": false
+            },
+            {
+                "id": "1122589",
+                "content": "TPCM为双系统可信计算体系架构的核心模块之一，国家于2021年出台了TPCM标准，TPCM在可信部件中的位置，相当于计算部件中的（）",
+                "title": "单选题002",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "操作系统",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "CPU+主板+操作系统",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "主板",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "CPU",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:03:31",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:03:31",
+                "is_lock": false
+            },
+            {
+                "id": "1122590",
+                "content": "《关键信息基础设施安全保护条例》(中华人民共和国国务院令第745号)规定，运营者应当自行或者委托网络安全服务机构对关键信息基础设施（）至少进行一次网络安全检测和风险评估。",
+                "title": "单选题003",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "每季度",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "每半年",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "每两年",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "每年",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:06:11",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:06:11",
+                "is_lock": false
+            },
+            {
+                "id": "1122591",
+                "content": "《关键信息基础设施安全保护条例》规定，违反本条例第五条第二款和第三十一条规定，受到治安管理处罚的人员，（）不得从事网络安全管理和网络运营关键岗位的工作；",
+                "title": "单选题004",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "一年内",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "终身",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "五年内",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "十年内",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:06:46",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:06:46",
+                "is_lock": false
+            },
+            {
+                "id": "1122592",
+                "content": "《网络安全法》规定，国家采取措施（）来源于中华人民共和国境内外的网络安全风险和威胁，保护关键信息基础设施免受攻击、侵入、干扰和破坏。下列选项中不属于括号内的答案为：",
+                "title": "单选题005",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "处置",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "监测",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "隔离",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "防御",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:09:21",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:09:21",
+                "is_lock": false
+            },
+            {
+                "id": "1122593",
+                "content": "以下哪条不属于知情同意的实现方式（）",
+                "title": "单选题006",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "口头同意",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "明示同意",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "授权同意",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "书面或电子协议同意",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:23:10",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:23:10",
+                "is_lock": false
+            },
+            {
+                "id": "1122594",
+                "content": "《中华人民共和国网络安全法》的立法目的是为了保障()，维护网络空间主权和国家安全、()，保护公民、法人和其他组织的合法权益，促进()健康发展。",
+                "title": "单选题007",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "网络安全 经济社会信息化 社会公共利益",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "经济社会信息化 社会公共利益 网络安全",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "网络安全 社会公共利益 经济社会信息化",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "经济社会信息化 网络安全 社会公共利益",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:21:09",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:21:09",
+                "is_lock": false
+            },
+            {
+                "id": "1122595",
+                "content": "根据《数据安全法》的规定，违反国家核心数据管理制度，危害国家主权、安全和发展利益的，由有关主管部门处（）罚款，并根据情况责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照；构成犯罪的，依法追究刑事责任",
+                "title": "单选题008",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "10万元以上100万元以下",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "200万元以上1000万元以下",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "100万元以上1000万元以下",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "50万元以上200万元以下",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:20:35",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:20:35",
+                "is_lock": false
+            },
+            {
+                "id": "1122596",
+                "content": "《网络安全法》规定，国家支持研究开发有利于未成年人健康成长的网络产品和服务，依法惩治利用网络从事（）的活动，为未成年人提供安全、健康的网络环境",
+                "title": "单选题009",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "诱导未成年人上网",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "侵害未成年人上网权",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "危害未成年人身心健康",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "灌输未成年人网络思想",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:19:32",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:19:32",
+                "is_lock": false
+            },
+            {
+                "id": "1122597",
+                "content": "互联网及其他公共信息网络运营商、服务商应当配合公安机关、国家安全机关、检察机关对泄密案件进行调查;发现利用互联网及其它公共信息网络发布的信息涉及泄露国家秘密的，应当（）",
+                "title": "单选题010",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "与有关部门协商后停止传输",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "立即停止传输",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "保持正常运行",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "继续传输但保存记录",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:18:54",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:18:54",
+                "is_lock": false
+            },
+            {
+                "id": "1122598",
+                "content": "根据《网络安全法》的规定，国家实行网络安全（）保护制度",
+                "title": "单选题011",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "分层",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "结构",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "等级",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "行政级别",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:25:37",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:25:37",
+                "is_lock": false
+            },
+            {
+                "id": "1122599",
+                "content": "以下不属于信息安全基本属性的是（）",
+                "title": "单选题012",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "完整性",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "安全性",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "可用性",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "保密性",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:30:23",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:30:23",
+                "is_lock": false
+            },
+            {
+                "id": "1122600",
+                "content": "在计算机安全中，保密是指（）",
+                "title": "单选题013",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "防止拒绝服务",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "防止延迟服务",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "防止未经授权的数据暴露并确保数据源的可靠性",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "防止未经授权的数据修改",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:30:38",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:30:38",
+                "is_lock": false
+            },
+            {
+                "id": "1122601",
+                "content": "《关键信息基础设施安全保护条例》规定，（）统筹协调国务院公安部门、保护工作部门对关键信息基础设施进行网络安全检查检测，提出改进措施。",
+                "title": "单选题014",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "国家工信部门",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "国家网信部门",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "国家政务部门",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "国家法律部门",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:30:31",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:30:31",
+                "is_lock": false
+            },
+            {
+                "id": "1122602",
+                "content": "根据《中华人民共和国网络安全法》，国家采取措施，监测、防御、处置来源于中华人民共和国境内外的网络安全风险和威胁，保护关键信息基础设施免受攻击、（）、干扰和破杯，依法惩治网络违法犯罪活动，维护网络空间安全和秩序。",
+                "title": "单选题015",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "监督",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "检测",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "侵入",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "扫描",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:30:48",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:30:48",
+                "is_lock": false
+            },
+            {
+                "id": "1122603",
+                "content": "按照我国刑法规定，非法获取、出售或者提供公民行踪轨迹信息、通信内容、征信信息、财产信息（）条以上的，将依法承担刑事责任",
+                "title": "单选题016",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "500",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "50",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "200",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "100",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:05",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:05",
+                "is_lock": false
+            },
+            {
+                "id": "1122604",
+                "content": "运营者对保护工作部门开展的关键信息基础设施网络安全检查检测工作，以及公安、国家安全、保密行政管理、密码管理等有关部门依法开展的关键信息基础设施网络安全检查工作，拒不改正的，处（）罚款",
+                "title": "单选题017",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "1万元以上50万元以下",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "5万元以上50万元以下",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "5万元以下",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "1万元以上10万元以下",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:19",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:19",
+                "is_lock": false
+            },
+            {
+                "id": "1122605",
+                "content": "下列数据中不属于国家核心数据的是（）。",
+                "title": "单选题018",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "关系重要民生的数据",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "关系国家安全的数据",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "关系国民经济命脉的数据",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "关系公共利益的数据",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:28",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:28",
+                "is_lock": false
+            },
+            {
+                "id": "1122606",
+                "content": "《中华人民共和国网络安全法》规定，建设关键信息基础设施应当确保其具有支持业务稳定、持续运行的性能，并保证安全技术措施（）。下列选项中不属于括号内的答案为：",
+                "title": "单选题019",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "同步使用",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "同步投运",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "同步规划",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "同步建设",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:37",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:37",
+                "is_lock": false
+            },
+            {
+                "id": "1122607",
+                "content": "以下何种身份定义适用于翼支付（）",
+                "title": "单选题020",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "个人信息保护监管机构",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "个人信息处理者",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "关键基础设施运营者",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "APP开发和运营者",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:44",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:44",
+                "is_lock": false
+            },
+            {
+                "id": "1122608",
+                "content": "网络运营者不得（）其收集的个人信息。",
+                "title": "单选题021",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "泄露、删除、毁损",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "泄露、篡改、毁损",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "泄露、篡改、出售",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "泄露、删除、出售",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:03:08",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:03:08",
+                "is_lock": false
+            },
+            {
+                "id": "1122609",
+                "content": "《数据安全法》规定，重要数据的（）应当明确数据安全负责人和管理机构，落实数据安全保护责任。",
+                "title": "单选题022",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "有关部门",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "处理者",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "维护者",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "读取者",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:02",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:02",
+                "is_lock": false
+            },
+            {
+                "id": "1122610",
+                "content": "《关键信息基础设施安全保护条例》规定，电子政务关键信息基础设施的运营者不履行本条例规定的网络安全保护义务的，依照（）有关规定予以处理。",
+                "title": "单选题023",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "《中华人民共和国数据安全法》",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "地方相关法规",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "《中华人民共和国电子商务法》",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "《中华人民共和国网络安全法》",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:11",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:11",
+                "is_lock": false
+            },
+            {
+                "id": "1122611",
+                "content": "个人信息保护法是信息安全领域一部划时代意义的法律。《中华人民共和国个人信息保护法》的通过时间和正式施行时间分别是（）。",
+                "title": "单选题024",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "2021.11.1；2022.1.1",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "2021.8.20；2022.1.1",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "2021.11.1；2021.12.20",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "2021.8.20；2021.11.1",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:22",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:22",
+                "is_lock": false
+            },
+            {
+                "id": "1122612",
+                "content": "《数据安全法》规定，（）以上人民政府应当将数字经济发展纳入本级国民经济和社会发展规划，并根据需要制定数字经济发展规划",
+                "title": "单选题025",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "国家级",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "市级",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "区（县）级",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "省级",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:31",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:31",
+                "is_lock": false
+            },
+            {
+                "id": "1122613",
+                "content": "依据《数据安全法》规定的数据安全保护义务， 重要数据的处理者不需要做的是",
+                "title": "单选题026",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "明确管理机构",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "明确数据安全负责人",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "落实数据安全保护预算",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "落实数据安全保护责任",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:23:28",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:23:28",
+                "is_lock": false
+            },
+            {
+                "id": "1122614",
+                "content": "可信软件基中，实现对可信密码功能支持的机制为（）",
+                "title": "单选题027",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "可信支撑机制",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "可信协作机制",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "可信决策机制",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "可信度量机制",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:43",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:43",
+                "is_lock": false
+            },
+            {
+                "id": "1122615",
+                "content": "违反《关键信息基础设施安全保护条例》第五条第二款和第三十一条规定，受到刑事处罚的人员，（）",
+                "title": "单选题028",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "终身不得从事网络安全管理和网络运营关键岗位的工作",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "处5日以上15日以下拘留，可以并处10万元以上100万元以下罚款",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "5年内不得从事网络安全管理和网络运营关键岗位的工作",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "处5日以下拘留，可以并处5万元以上50万元以下罚款",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:53",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:53",
+                "is_lock": false
+            },
+            {
+                "id": "1122616",
+                "content": "计算机犯罪主要涉及刑事问题、民事问题和（）",
+                "title": "单选题029",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "民生问题",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "隐私问题",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "人际关系问题",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "人身安全问题",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:01",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:01",
+                "is_lock": false
+            },
+            {
+                "id": "1122617",
+                "content": "《网络安全法》第二十八条（）应当为公安机关、国家安全机关依法维护国家安全和侦查犯罪的活动提供技术支持和协助。",
+                "title": "单选题030",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "所有公民",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "行政政府",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "网络使用者",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "网络运营者",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:29:03",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:29:03",
+                "is_lock": false
+            },
+            {
+                "id": "1122618",
+                "content": "我国在信息系统安全保护方面制定的最早一部，也是最基本的一部法规是（）",
+                "title": "单选题031",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "《信息安全等级保护管理办法》",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "《中华人民共和国计算机信息系统安全保护条例》",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "《计算机信息网络国际联网安全保护管理办法》",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "《计算机信息系统安全保护等级划分准则》",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:22",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:22",
+                "is_lock": false
+            },
+            {
+                "id": "1122619",
+                "content": "以下不属于数据安全管理制度机制的是（）。",
+                "title": "单选题032",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "数据加密存储保护机制",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "数据安全审查制度",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "数据分类分级保护制度",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "数据安全应急处置机制",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:32",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:32",
+                "is_lock": false
+            },
+            {
+                "id": "1122620",
+                "content": "信息对抗是为消弱、破坏对方电子信息设备和信息的使用效能，保障己方电子信息设备和信息正常发挥效能而采取的综合技术措施，其主要研究内容有（）",
+                "title": "单选题033",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "通信对抗",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "计算机网络对抗",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "其他三个选项皆是",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "雷达对抗",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:41",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:41",
+                "is_lock": false
+            },
+            {
+                "id": "1122621",
+                "content": "关键信息基础设施的运营者采购网络产品和服务，可能影响（），应当通过国家网信部门会同国务院有关部门组织的国家安全审查",
+                "title": "单选题034",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "网络安全",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "国家安全",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "信息安全",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "政府安全",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:48",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:48",
+                "is_lock": false
+            },
+            {
+                "id": "1122622",
+                "content": "《数据安全法》第三十三条　从事（）的机构提供服务，应当要求数据提供方说明数据来源，审核交易双方的身份，并留存审核、交易记录。",
+                "title": "单选题035",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "提供数据服务",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "维护数据服务",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "使用数据服务",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "数据交易中介服务",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": false,
+                "is_over": true,
+                "answer_time": "",
+                "solved_status": false,
+                "answer_team_number": 0,
+                "top_team_name": [],
+                "first_time": "",
+                "is_lock": false
+            },
+            {
+                "id": "1122623",
+                "content": "“在享受互联网带来的红利、带来的便捷的同时，我们也应当履行相应的义务”是《网络安全法》规定的（）原则",
+                "title": "单选题036",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "网络安全与发展",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "责权利相一致",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "网络主权",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "共同治理",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:08",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:08",
+                "is_lock": false
+            },
+            {
+                "id": "1122624",
+                "content": "因维护国家安全和社会公共秩序，处置重大突发社会安全事件的需要，经（）决定或者批准，可以在特定区域对网络通信采取限制等临时措施。",
+                "title": "单选题037",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "国家保密局",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "国务院",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "人大",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "中央网信办",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:17",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:17",
+                "is_lock": false
+            },
+            {
+                "id": "1122625",
+                "content": "要切实保障国家数据安全。要加强关键信息基础设施安全保护，强化国家关键数据资源保护能力，增强数据安全预警和溯源能力。要加强()的统筹协调，加快法规制度建设。要制定数据资源确权、开放、流通、交易相关制度，完善数据产权保护制度。要加大对技术专利、数字版权、数字内容产品及个人隐私等的保护力度，维护广大人民群众利益、社会稳定、国家安全。要加强国际数据治理政策储备和治理规则研究，提出中国方案。",
+                "title": "单选题038",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "政策、监管、法规",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "政策、监管、法律",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "政策、监控、监管",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "政策、监控、法规",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:40:02",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:40:02",
+                "is_lock": false
+            },
+            {
+                "id": "1122626",
+                "content": "国家秘密的保密期限，除另有规定外，绝密级不超过（）年",
+                "title": "单选题039",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "10年",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "50年",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "20年",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "30年",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:39:50",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:39:50",
+                "is_lock": false
+            },
+            {
+                "id": "1122627",
+                "content": "国家对于维护国家安全和利益、履行国际义务相关的属于管制物项的数据依法实施()。",
+                "title": "单选题040",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "进口管制",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "出口管制",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "不管制",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "双向管制",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:40:31",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:40:31",
+                "is_lock": false
+            },
+            {
+                "id": "1122628",
+                "content": "等级保护三级系统的主要可信功能为可信度量，其中主客体的可信度量主要是为了支持三级系统的核心安全功能（）",
+                "title": "单选题041",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "执行程序保护",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "数据保护",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "可信验证",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "强制访问控制",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:40:10",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:40:10",
+                "is_lock": false
+            },
+            {
+                "id": "1122629",
+                "content": "《关键信息基础设施安全保护条例》规定，运营者发生（）情况，应当及时报告保护工作部门，并按照保护工作部门的要求对关键信息基础设施进行处置，确保安全。",
+                "title": "单选题042",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "合并、分立、人事调动",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "人事调动、分立、解散",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "合并、分立、解散",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "合并、人事调动、解散",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:39:42",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:39:42",
+                "is_lock": false
+            },
+            {
+                "id": "1122630",
+                "content": "以下设备中可以接入互联网的有",
+                "title": "单选题043",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "涉密信息系统",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "不涉密的计算机",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "涉密计算机",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "涉密存储设备",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:27",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:27",
+                "is_lock": false
+            },
+            {
+                "id": "1122631",
+                "content": "国家（）负责统筹协调网络安全工作和相关监督管理工作。国务院（）、（）和其他有关机关依照本法和有关法律、行政法规的规定，在各自职责范围内负责网络安全保护和监督管理工作。下列选项依次填入上述空缺部分全部正确的是（）",
+                "title": "单选题044",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "各级人民政府；网信部门；电信主管部门",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "网信部门；电信主管部门；公安部门",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "公安部门；电信主管部门；网信部门",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "电信主管部门；网信部门；公安部门",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:36",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:36",
+                "is_lock": false
+            },
+            {
+                "id": "1122632",
+                "content": "以下属于个人信息影响的评估场景的是（）",
+                "title": "单选题045",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "处理名下个人信息，利用个人信息进行自动化决策",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "其他三个选项皆是",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "委托处理个人信息、向第三方提供个人信息、公开个人信息",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "向境外提供个人信息",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:47",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:47",
+                "is_lock": false
+            },
+            {
+                "id": "1122633",
+                "content": "《中华人民共和国家计算机信息系统安全保护条例》的主要内容是()",
+                "title": "单选题046",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "明确了信息安全风险评估工作的基本内容和原则，工作要求和工作安排，信息系统风险评估工作要按照“严密组织，规范操作，讲求科学，注重实效”的原则开展。",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "加强政府信息系统安全和保密管理工作，提出了四点要求：加强组织领导；明确安全责任；强化教育培训；提高安全意识和防护技能，建立健全安全管理制度，完善安全措施和手段，做好信息安全检查工作，依法追究责任。",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "提出健全安全防护和管理，加强政府和涉密信息系统安全管理，要保障核设施，航空航天，先进制造等重要领域工业控制系统安全。要加强信息资源和个人信息保护。",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "规定了信息安全等级保护制度，计算机机房安全保护制度，国际互联网备案制度，信息媒体出入境申报制度，信息安全管理负责制度等，说明了相关安全监督和法律责任方面的具体事项。",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:15",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:15",
+                "is_lock": false
+            },
+            {
+                "id": "1122634",
+                "content": "下列哪个选项不属于国家秘密的密级。",
+                "title": "单选题047",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "保密",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "机密",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "秘密",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "绝密",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:03",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:03",
+                "is_lock": false
+            },
+            {
+                "id": "1122635",
+                "content": "零信任是近年来很热门的安全概念，某报告提出零信任架构下可以取消VPN，这一观点（）",
+                "title": "单选题048",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "不会对系统安全造成严重影响",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "展示了零信任机制的强大功能",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "混淆了安全边界防御机制安全网络通信两种概念",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "符合等保2.0中加强安全可信的思路",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:32:06",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:32:06",
+                "is_lock": false
+            },
+            {
+                "id": "1122636",
+                "content": "《数据安全法》规定，关系国家安全、国民经济命脉、重要民生、重大公共利益等数据属于（）。",
+                "title": "单选题049",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "国家重要数据",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "国家核心数据",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "普通数据",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "国家保密数据",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:39",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:39",
+                "is_lock": false
+            },
+            {
+                "id": "1122637",
+                "content": "在可信2.0（TCG的可信架构）和可信3.0中，作为节点可信度量源头的设备分别是（）",
+                "title": "单选题050",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "TPM,TCM",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "TPM, TPCM",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "CRTM，TPCM",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "CRTM，TCM",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:31:21",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:31:21",
+                "is_lock": false
+            },
+            {
+                "id": "1122638",
+                "content": "下面哪些不是基本的网络安全防御产品：（）",
+                "title": "多选题001",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "Modem",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "IDS系统",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "防火墙",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "路由器",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:03:52",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:03:52",
+                "is_lock": false
+            },
+            {
+                "id": "1122639",
+                "content": "个人信息处理者应当根据个人信息的处理目的、处理方式、个人信息的种类以及对个人权益的影响、可能存在的安全风险等，采取所规定的措施确保个人信息处理活动符合法律、行政法规的规定，并防止未经授权的访问以及个人信息()",
+                "title": "多选题002",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "篡改",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "丢失",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "泄露",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "损坏",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:07:16",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:07:16",
+                "is_lock": false
+            },
+            {
+                "id": "1122640",
+                "content": "访问控制是网络安全防范和保护的主要策略，它的主要任务是（）",
+                "title": "多选题003",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "保证网络资源不被非法使用",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "保证网络资源不被非法访问",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "保护网络传输的信息",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "保护网络内的数据、文件、口令",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:40:48",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:40:48",
+                "is_lock": false
+            },
+            {
+                "id": "1122641",
+                "content": "网络空间安全包括哪些方面（）",
+                "title": "多选题004",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "数据安全",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "意识形态安全",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "技术安全",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "应用安全",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:39:27",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:39:27",
+                "is_lock": false
+            },
+            {
+                "id": "1122642",
+                "content": "下列关于大数据的说法中，错误的是（） ",
+                "title": "多选题005",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "大数据的目的在于发现新的知识与洞察并进行科学决策",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "大数据具有体量大、结构单一、时效性强的特征  ",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "处理大数据需采用新型计算架构和智能算法等新技术 ",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "大数据的应用注重因果分析而不是相关分析",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:39:19",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:39:19",
+                "is_lock": false
+            },
+            {
+                "id": "1122643",
+                "content": "web网站的请求方法包括（ ）",
+                "title": "多选题006",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "GET",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "PUT",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "OPTIONS",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "POST",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:41:24",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:41:24",
+                "is_lock": false
+            },
+            {
+                "id": "1122644",
+                "content": "数据备份是数据容灾的基础，以下是数据备份方法的是（）",
+                "title": "多选题007",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "磁带库备份",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "磁盘镜像备份",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "磁盘阵列备份",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "磁盘无规律备份",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:04:18",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:04:18",
+                "is_lock": false
+            },
+            {
+                "id": "1122645",
+                "content": "计算机病毒的主要来源有（）",
+                "title": "多选题008",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "黑客组织编写",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "恶意编制",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "计算机自动产生",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "恶作剧",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:05:22",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:05:22",
+                "is_lock": false
+            },
+            {
+                "id": "1122646",
+                "content": "根据《个人信息保护法》有关规定，下列哪些处理个人信息的行为不需要取得信息所有者同意（）。",
+                "title": "多选题009",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "为公共利益实施新闻报道、舆论监督等行为，在合理的范围内处理个人信息",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "为订立、履行个人作为一方当事人的合同所必需，或者按照依法制定的劳动规章制度和依法签订的集体合同实施人力资源管理所必需",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "为履行法定职责或者法定义务所必需",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "为应对突发公共卫生事件，或者紧急情况下为保护自然人的生命健康和财产安全所必需",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": false,
+                "is_over": true,
+                "answer_time": "",
+                "solved_status": false,
+                "answer_team_number": 0,
+                "top_team_name": [],
+                "first_time": "",
+                "is_lock": false
+            },
+            {
+                "id": "1122647",
+                "content": "计算机安全事故原因的认定和计算机案件的数据鉴定（）",
+                "title": "多选题010",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "必要时可进行相关的验证或侦查实验",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "可以由发生事故或计算机案件的单位出具鉴定报告",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "是一项专业性较强的技术工作",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "可聘请有关方面的专家，组成专家鉴定组进行分析鉴定",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:33:46",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:33:46",
+                "is_lock": false
+            },
+            {
+                "id": "1122648",
+                "content": "敏感个人信息是一旦泄露或者非法使用，容易导致自然人的人格尊严受到侵害或者人身、财产安全受到危害的个人信息，包括（）等。",
+                "title": "多选题011",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "生物识别、医疗健康",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "金融账户、行踪轨迹",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "宗教信仰、特定身份",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "未满十四周岁未成年人个人信息",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:00",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:00",
+                "is_lock": false
+            },
+            {
+                "id": "1122649",
+                "content": "信息安全已经成为社会的焦点问题，以下属于信息系统安全运营原则的是（）",
+                "title": "多选题012",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "易操作性原则",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "绝对安全原则",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "合规性与风险控制结合的原则",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "统一管控原则",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:34:27",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:34:27",
+                "is_lock": false
+            },
+            {
+                "id": "1122650",
+                "content": "用于实现身份鉴别的安全机制是（ ）。",
+                "title": "多选题013",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "加密机制",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "访问控制机制",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "路由控制机制",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "数字签名机制",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:35:12",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:35:12",
+                "is_lock": false
+            },
+            {
+                "id": "1122651",
+                "content": "根据《信息安全技术网络安全等级保护定级指南》的要求，等级保护对象的安全保护分为5级，下列选项中在其中的有()",
+                "title": "多选题014",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "强制保护级",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "专业保护级",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "指导保护级",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "个人保护级",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:35:23",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:35:23",
+                "is_lock": false
+            },
+            {
+                "id": "1122652",
+                "content": "信息战的表现形式有（）",
+                "title": "多选题015",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "网络攻防",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "心理战",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "电子对抗",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "实体摧毁",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:35:32",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:35:32",
+                "is_lock": false
+            },
+            {
+                "id": "1122653",
+                "content": "《中华人民共和国个人信息保护法》的立法宗旨有（）。",
+                "title": "多选题016",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "提高个人信息数据质量",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "促进个人信息合理利用",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "为了保护个人信息权益",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "规范个人信息处理活动",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:39:03",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:39:03",
+                "is_lock": false
+            },
+            {
+                "id": "1122654",
+                "content": "僵尸网络是攻击者出于恶意目的，传播僵尸程序控制大量主机，并通过一对多的命令与控制信道所组成的网络，以下关于僵尸网络说法正确的是（）",
+                "title": "多选题017",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "利用僵尸网络，攻击者可以轻易地控制成千上万台主机对因特网任意站点发起分布式拒绝服务攻击，并发送大量垃圾邮件，从受控主机上窃取敏感信息或进行点击欺诈以牟取经济利益",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "僵尸网络形成的条件是被控制主机和攻击主机必须有物理链路联通",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "僵尸网络是从传统恶意代码形态包括计算机病毒、网络蠕虫、特洛伊木马和后门工具的基础上进化，并通过相互融合发展而成的目前最为复杂的攻击方式之一",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "一般情况下，僵尸网络由僵尸计算机、命令与控制服务器、攻击者组成",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": false,
+                "is_over": true,
+                "answer_time": "",
+                "solved_status": false,
+                "answer_team_number": 0,
+                "top_team_name": [],
+                "first_time": "",
+                "is_lock": false
+            },
+            {
+                "id": "1122655",
+                "content": "以下网络攻击方式中，（）实施的攻击是网络钓鱼的常用手段",
+                "title": "多选题018",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "利用社会工程学",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "利用蜜罐",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "利用假冒网上银行、网上证券网站",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "利用虚假的电子商务网站",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:38:44",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:38:44",
+                "is_lock": false
+            },
+            {
+                "id": "1122656",
+                "content": "网络运营者包括（）",
+                "title": "多选题019",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "网络服务提供者",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "网络管理者",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "网络所有者",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "网络使用者",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:38:28",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:38:28",
+                "is_lock": false
+            },
+            {
+                "id": "1122657",
+                "content": "《个人信息保护法》中对信息处理流程包括（）",
+                "title": "多选题020",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "加工",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "存储",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "使用",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "收集",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:38:02",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:38:02",
+                "is_lock": false
+            },
+            {
+                "id": "1122658",
+                "content": "入侵检测系统在发现入侵后会及时作出响应，包括（）",
+                "title": "多选题021",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "切断网络连接",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "报警",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "记录事件",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "通知",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:36:42",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:36:42",
+                "is_lock": false
+            },
+            {
+                "id": "1122659",
+                "content": "当前阶段，我国的网络安全隐患包括了操作系统本身硬件、软件安全存在威胁的隐患，以及对于()的安全造成威胁的隐患。",
+                "title": "多选题022",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "集体",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "社会",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "个人",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "国家",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:36:32",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:36:32",
+                "is_lock": false
+            },
+            {
+                "id": "1122660",
+                "content": "下列哪些情况下个人信息处理者应当主动删除个人信息；个人信息处理者未删除的，个人有权请求删除。()",
+                "title": "多选题023",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "个人撤回同意",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "个人信息处理者违反法律、行政法规或者违反约定处理个人信息",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "处理目的已实现、无法实现或者为实现处理目的不再必要",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "个人信息处理者产品功能更改",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": false,
+                "is_over": true,
+                "answer_time": "",
+                "solved_status": false,
+                "answer_team_number": 0,
+                "top_team_name": [],
+                "first_time": "",
+                "is_lock": false
+            },
+            {
+                "id": "1122661",
+                "content": "网络运营者应当按照网络安全等级保护制度的要求，保障网络免受干扰、破坏或者未经授权的访问，防止网络数据泄露或者被窃取、篡改。以下（）属于需履行的安全保护义务。",
+                "title": "多选题024",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "制定内部安全管理制度和操作规程，确定网络安全负责人，落实网络安全保护责任",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "采取监测、记录网络运行状态、网络安全事件的技术措施，并按照规定留存相关的网络日志不少于六个月",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "采取防范计算机病毒和网络攻击、网络侵入等危害网络安全行为的技术措施",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "采取数据分类、重要数据备份和加密等措施",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:00:44",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:00:44",
+                "is_lock": false
+            },
+            {
+                "id": "1122662",
+                "content": "根据我国有关法律规定，属于公民个人信息的有（）",
+                "title": "多选题025",
+                "score": "20",
+                "dynamic_score": "20",
+                "category_id": "926",
+                "is_once": "1",
+                "online_time": "",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "2",
+                "question_option": [
+                    {
+                        "option": "通信记录和通信内容",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "上网记录和交易记录",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "姓名、家庭住址、身份证号码等信息",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "电话号码",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "08-17 10:00:21",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T929510"
+                ],
+                "first_time": "08-17 10:00:21",
+                "is_lock": false
+            },
+            {
+                "id": "1196578",
+                "content": "经典的菜单，好像加了一些新东西，但好像也没有什么新东西~Hope you are happy^-^<p><a href=\"https://pan.baidu.com/s/1vyAgB6-GPIpI3Hgfq4g2Rw\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/kqcu9aee\" target=\"_blank\">备用下载</a></p>",
+                "title": "happy_note",
+                "score": "500",
+                "dynamic_score": "313",
+                "category_id": "923",
+                "is_once": "0",
+                "online_time": "05-13 10:23:47",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "PWN",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 13,
+                "top_team_name": [
+                    "T927663",
+                    "T927399",
+                    "T929634"
+                ],
+                "first_time": "08-17 17:21:28",
+                "is_lock": false
+            },
+            {
+                "id": "1196579",
+                "content": "<p><a href=\"https://pan.baidu.com/s/1GtJtO55YHJgC86-twgrZnQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/XBKqWsTh\" target=\"_blank\">备用下载</a></p>",
+                "title": "Gift",
+                "score": "500",
+                "dynamic_score": "148",
+                "category_id": "923",
+                "is_once": "0",
+                "online_time": "05-13 10:23:48",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "PWN",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 49,
+                "top_team_name": [
+                    "T928369",
+                    "T927334",
+                    "T929958"
+                ],
+                "first_time": "08-17 12:55:23",
+                "is_lock": false
+            },
+            {
+                "id": "1196580",
+                "content": "这是一个small container，你能想办法找到出路吗？<p><a href=\"https://pan.baidu.com/s/1hZDU2EcthwT9RhNmJhfjoQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/YplHq8Sd\" target=\"_blank\">备用下载</a></p>",
+                "title": "smallcontainer",
+                "score": "500",
+                "dynamic_score": "162",
+                "category_id": "923",
+                "is_once": "0",
+                "online_time": "05-13 10:23:48",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "PWN",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 43,
+                "top_team_name": [
+                    "T928369",
+                    "T929958",
+                    "T927663"
+                ],
+                "first_time": "08-17 13:46:15",
+                "is_lock": false
+            },
+            {
+                "id": "1196581",
+                "content": "<p>真有人会用 NodeJS 建站吗？那不是随随便便就能打下来？admin正在测试中，本站尚未投入使用！</p>",
+                "title": "unsafe_ejs",
+                "score": "500",
+                "dynamic_score": "477",
+                "category_id": "925",
+                "is_once": "0",
+                "online_time": "05-13 10:23:49",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Web",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 2,
+                "top_team_name": [
+                    "T929087",
+                    "T929916"
+                ],
+                "first_time": "08-17 18:05:43",
+                "is_lock": false
+            },
+            {
+                "id": "1196582",
+                "content": "<p>小明发现admin用户不是很聪明的样子，于是自己写了一个bot，但是放了一个hint在hint里面，你打算怎么发现他们呢？approver说他可以做到。</p>\r\n\r\n<p>（通过http访问相应的ip和port，例如 nc ip port ，改为http://ip:port/）</p>\r\n\r\n<p><a href=\"https://pan.baidu.com/s/1c0fhlsFAhlRI-bRbXn1UPg\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/WYD7ihOp\" target=\"_blank\">备用下载</a></p>",
+                "title": "ezwebpro",
+                "score": "500",
+                "dynamic_score": "455",
+                "category_id": "925",
+                "is_once": "0",
+                "online_time": "05-13 10:23:49",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Web",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 3,
+                "top_team_name": [
+                    "T929916",
+                    "T928728",
+                    "T929087"
+                ],
+                "first_time": "08-17 18:04:35",
+                "is_lock": false
+            },
+            {
+                "id": "1196583",
+                "content": "<p>我自己做了一个搜索引擎，你看看怎么样</p>\r\n\r\n<p>（通过http访问相应的ip和port，例如 nc ip port ，改为http://ip:port/）</p>\r\n\r\n<p><a href=\"https://pan.baidu.com/s/1w0IcFAS0bY965grFpOw4sQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/avYjBQwA\" target=\"_blank\">备用下载</a></p>",
+                "title": "ezWeb",
+                "score": "500",
+                "dynamic_score": "134",
+                "category_id": "925",
+                "is_once": "0",
+                "online_time": "05-13 10:23:50",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Web",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 56,
+                "top_team_name": [
+                    "T930505",
+                    "T927399",
+                    "T929246"
+                ],
+                "first_time": "08-17 13:52:34",
+                "is_lock": false
+            },
+            {
+                "id": "1196584",
+                "content": "<p>\n    他们说：这道题目很简单\n</p>\n<p>\n    <br/>\n</p>\n<p>\n    提示：\n</p>\n<p>\n    cookie中的admin_password存在cbc padding oracle\n</p>",
+                "title": "babyweb",
+                "score": "500",
+                "dynamic_score": "173",
+                "category_id": "925",
+                "is_once": "0",
+                "online_time": "05-13 10:23:50",
+                "source_id": "161",
+                "is_docker": "1",
+                "prev_id": "0",
+                "tips": "提示",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": null,
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Web",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 39,
+                "top_team_name": [
+                    "T928363",
+                    "T928240",
+                    "T930046"
+                ],
+                "first_time": "08-17 13:27:18",
+                "is_lock": false
+            },
+            {
+                "id": "1196585",
+                "content": "在 PHP 的世界中寻找一条出路。<p><a href=\"https://pan.baidu.com/s/1CKThdBNtjtNzvzt3HX7m7g\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/L50cTAmz\" target=\"_blank\">备用下载</a></p>",
+                "title": "ObfPuzz",
+                "score": "500",
+                "dynamic_score": "400",
+                "category_id": "924",
+                "is_once": "0",
+                "online_time": "05-13 10:23:50",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Reverse",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 6,
+                "top_team_name": [
+                    "T928163",
+                    "T930305",
+                    "T930246"
+                ],
+                "first_time": "08-17 13:29:32",
+                "is_lock": false
+            },
+            {
+                "id": "1196586",
+                "content": "<p>你搞到了舍友电脑上某特殊服务的登录模块的样本，快拿下它吧！(flag格式为flag{用户名+密码} ，不含+号)</p>\r\n\r\n<p><a href=\"https://pan.baidu.com/s/1b0IcuJbucJLqKt4g4VvtXA\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/YnZ0Uzsq\" target=\"_blank\">备用下载</a></p>",
+                "title": "ezre",
+                "score": "500",
+                "dynamic_score": "500",
+                "category_id": "924",
+                "is_once": "0",
+                "online_time": "05-13 10:23:51",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Reverse",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T927258"
+                ],
+                "first_time": "08-17 18:48:04",
+                "is_lock": false
+            },
+            {
+                "id": "1196587",
+                "content": "运行需要root权限，flag为输入正确结果<p><a href=\"https://pan.baidu.com/s/1N7K4fkgtiFFL17PEJSr1wQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/2rP3Pwpb\" target=\"_blank\">备用下载</a></p>",
+                "title": "CrackMe",
+                "score": "500",
+                "dynamic_score": "500",
+                "category_id": "924",
+                "is_once": "0",
+                "online_time": "05-13 10:23:51",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Reverse",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T927663"
+                ],
+                "first_time": "08-17 19:28:11",
+                "is_lock": false
+            },
+            {
+                "id": "1196588",
+                "content": "都去哪了，都去哪了<p><a href=\"https://pan.baidu.com/s/14Ldcn77M2WVrrayDf92qGA\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/qxiL9C8I\" target=\"_blank\">备用下载</a></p>",
+                "title": "Lost",
+                "score": "500",
+                "dynamic_score": "417",
+                "category_id": "921",
+                "is_once": "0",
+                "online_time": "05-13 10:24:14",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Misc",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 5,
+                "top_team_name": [
+                    "T929246",
+                    "T930563",
+                    "T930505"
+                ],
+                "first_time": "08-17 16:31:40",
+                "is_lock": false
+            },
+            {
+                "id": "1196589",
+                "content": "小明不小心把自己出题的flag在微信中发了出去，你能找到这个flag吗？<p><a href=\"https://pan.baidu.com/s/1ttL3WmlMn48RDXGCIy6VkQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/YHLKL9tn\" target=\"_blank\">备用下载</a></p>",
+                "title": "easy_Forensic",
+                "score": "500",
+                "dynamic_score": "170",
+                "category_id": "921",
+                "is_once": "0",
+                "online_time": "05-13 10:24:12",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Misc",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 40,
+                "top_team_name": [
+                    "T927340",
+                    "T927999",
+                    "T927869"
+                ],
+                "first_time": "08-17 12:36:00",
+                "is_lock": false
+            },
+            {
+                "id": "1196590",
+                "content": "<p>\n    小明的电脑被hack了，并且hacker恶意修改了他的系统注册表，你能找到被修改的地方吗\n</p>\n<p>（本题附件建议在虚拟机里进行分析，可以用registry workshop等工具打开。）</p>\n<p>\n    <a href=\"https://pan.baidu.com/s/1fHT4nxnUtjJt5Q6pw3IkGw\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/0hrQu9wt\" target=\"_blank\">备用下载</a>\n</p>",
+                "title": "powerpower",
+                "score": "500",
+                "dynamic_score": "323",
+                "category_id": "921",
+                "is_once": "0",
+                "online_time": "05-13 10:24:11",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": null,
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Misc",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 12,
+                "top_team_name": [
+                    "T927222",
+                    "T927093",
+                    "T927340"
+                ],
+                "first_time": "08-17 16:01:36",
+                "is_lock": false
+            },
+            {
+                "id": "1196591",
+                "content": "There are many ways to represent an elliptic curve,do you know them?<p><a href=\"https://pan.baidu.com/s/1B3kfwneJWxoPYLfB0JlrCQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/oQglg0k8\" target=\"_blank\">备用下载</a></p>",
+                "title": "strange curve",
+                "score": "500",
+                "dynamic_score": "104",
+                "category_id": "922",
+                "is_once": "0",
+                "online_time": "05-13 10:24:10",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Crypto",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 78,
+                "top_team_name": [
+                    "T927505",
+                    "T928163",
+                    "T927899"
+                ],
+                "first_time": "08-17 13:17:08",
+                "is_lock": false
+            },
+            {
+                "id": "1196592",
+                "content": "Do you know Powerpoint?How about point-power?<p><a href=\"https://pan.baidu.com/s/1Z11hb4PcPO4UFyAFDfrMBQ\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/RNXqZmHk\" target=\"_blank\">备用下载</a></p>",
+                "title": "point-power",
+                "score": "500",
+                "dynamic_score": "125",
+                "category_id": "922",
+                "is_once": "0",
+                "online_time": "05-13 10:24:09",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Crypto",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 61,
+                "top_team_name": [
+                    "T929893",
+                    "T928163",
+                    "T927140"
+                ],
+                "first_time": "08-17 11:36:46",
+                "is_lock": false
+            },
+            {
+                "id": "1196593",
+                "content": "小夏最近学习了RSA签名算法体制，听说它在硬件上面有很广泛的应用，于是自己尝试了签名，但很不幸出现了错误，你能帮他找到flag吗？<p><a href=\"https://pan.baidu.com/s/1COenNiuvgf8f61W8ICX84A\" target=\"_blank\">附件下载</a> 提取码（GAME）<a href=\"https://share.weiyun.com/qLeQugGf\" target=\"_blank\">备用下载</a></p>",
+                "title": "Learning with fault",
+                "score": "500",
+                "dynamic_score": "435",
+                "category_id": "922",
+                "is_once": "0",
+                "online_time": "05-13 10:24:08",
+                "source_id": "161",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": "",
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "1",
+                "question_type": "0",
+                "question_option": [],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "user_status": 0,
+                "category": "Crypto",
+                "is_answer": false,
+                "is_over": false,
+                "answer_time": "",
+                "solved_status": true,
+                "answer_team_number": 4,
+                "top_team_name": [
+                    "T928363",
+                    "T928240",
+                    "T928163"
+                ],
+                "first_time": "08-17 17:50:52",
+                "is_lock": false
+            }
+        ]
+    }
+}
