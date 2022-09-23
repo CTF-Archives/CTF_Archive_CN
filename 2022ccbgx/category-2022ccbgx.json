@@ -1,0 +1,117 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 5,
+        "lists": [
+            {
+                "id": "911",
+                "category": "Misc",
+                "sort": "1",
+                "description": "Misc题",
+                "encrypt_category_id": "UGxbPAM7",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1196819",
+                            "title": "签名簿"
+                        },
+                        {
+                            "id": "1196827",
+                            "title": "办公室爱情"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "912",
+                "category": "Crypto",
+                "sort": "2",
+                "description": "Crypto题",
+                "encrypt_category_id": "Aj5bPFVu",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1196829",
+                            "title": "known_phi"
+                        },
+                        {
+                            "id": "1196831",
+                            "title": "RSA"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "913",
+                "category": "PWN",
+                "sort": "3",
+                "description": "PWN题",
+                "encrypt_category_id": "DTFRNlJo",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1196821",
+                            "title": "glibc_master"
+                        },
+                        {
+                            "id": "1196822",
+                            "title": "easy_sql"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "914",
+                "category": "Reverse",
+                "sort": "4",
+                "description": "Reverse题",
+                "encrypt_category_id": "Az9RNlNu",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1196824",
+                            "title": "infant_re"
+                        },
+                        {
+                            "id": "1196825",
+                            "title": "baby_re"
+                        },
+                        {
+                            "id": "1196826",
+                            "title": "rabbit_hole"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "915",
+                "category": "Web",
+                "sort": "5",
+                "description": "Web题",
+                "encrypt_category_id": "Az8FYgI-",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1196817",
+                            "title": "验证查询系统"
+                        },
+                        {
+                            "id": "1196818",
+                            "title": "djangogogo"
+                        },
+                        {
+                            "id": "1196823",
+                            "title": "b4bycoffee"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
