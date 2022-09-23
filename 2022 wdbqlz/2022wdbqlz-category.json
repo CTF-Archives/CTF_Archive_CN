@@ -1,0 +1,133 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 5,
+        "lists": [
+            {
+                "id": "927",
+                "category": "Misc",
+                "sort": "1",
+                "description": "Misc题",
+                "encrypt_category_id": "VWlbPwY4",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1197020",
+                            "title": "签到"
+                        },
+                        {
+                            "id": "1197039",
+                            "title": "misc287"
+                        },
+                        {
+                            "id": "1197031",
+                            "title": "misc936"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "928",
+                "category": "Crypto",
+                "sort": "2",
+                "description": "Crypto题",
+                "encrypt_category_id": "BztRNQg5",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1197038",
+                            "title": "crypto405"
+                        },
+                        {
+                            "id": "1197037",
+                            "title": "crypto162"
+                        },
+                        {
+                            "id": "1197036",
+                            "title": "crypto091"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "929",
+                "category": "PWN",
+                "sort": "3",
+                "description": "PWN题",
+                "encrypt_category_id": "UGxSNldn",
+                "question": {
+                    "total": 4,
+                    "lists": [
+                        {
+                            "id": "1197040",
+                            "title": "pwn135"
+                        },
+                        {
+                            "id": "1197034",
+                            "title": "pwn497"
+                        },
+                        {
+                            "id": "1197033",
+                            "title": "pwn349"
+                        },
+                        {
+                            "id": "1197032",
+                            "title": "pwn889"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "930",
+                "category": "Reverse",
+                "sort": "4",
+                "description": "Reverse题",
+                "encrypt_category_id": "DTFbPldu",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1197043",
+                            "title": "re693"
+                        },
+                        {
+                            "id": "1197042",
+                            "title": "re696"
+                        },
+                        {
+                            "id": "1197041",
+                            "title": "re694"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "931",
+                "category": "Web",
+                "sort": "5",
+                "description": "Web题",
+                "encrypt_category_id": "Aj5WMwA4",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1197045",
+                            "title": "web214"
+                        },
+                        {
+                            "id": "1197044",
+                            "title": "web669"
+                        },
+                        {
+                            "id": "1197035",
+                            "title": "web668"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
