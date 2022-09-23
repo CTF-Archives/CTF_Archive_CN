@@ -1,0 +1,26 @@
+{
+    "code": 0,
+    "message": "查询成功",
+    "data": [
+        {
+            "value": "diff题目的每个队伍增加5次修补次数；修补demo.zip https:\/\/pan.baidu.com\/s\/1Wb11AbRohLasB2lIEauJ2A 提取码（GAME）",
+            "high": false
+        },
+        {
+            "value": "比赛时间：2022年9月21日9:00-17:00。请选手时刻关注比赛公告，大赛执行规则以比赛公告为准；如果对赛题有任何疑问，可在赛事QQ群（939912418）私聊管理员 春秋GAME-技术支持-五条(web)、春秋GAME-技术支持2(pwn)。",
+            "high": false
+        },
+        {
+            "value": "比赛期间所有参赛选手都需要录屏，录屏时间要从开赛录制到比赛结束，在比赛后7小时内发录屏文件的网盘链接到wp@gamectf.com",
+            "high": false
+        },
+        {
+            "value": "Writeup提交：所有参赛选手请在比赛后3小时内提交writeup。",
+            "high": false
+        },
+        {
+            "value": "本次比赛进行严格的作弊审查制度，所有破坏比赛公平性的行为一经发现确认，将取消比赛成绩。",
+            "high": false
+        }
+    ]
+}

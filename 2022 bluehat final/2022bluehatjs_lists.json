@@ -1,0 +1,283 @@
+{
+    "code": 0,
+    "message": "查询成功",
+    "data": [
+        {
+            "id": 108,
+            "source_id": 10008,
+            "title": "安全的系统",
+            "content": "<p>具有先进的webshell检测系统，你能拿下它吗?<\/p><p><a href=\"https:\/\/pan.baidu.com\/s\/1_I4_XoHndVJWMhJFwTCFwg\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/jbqXbdst\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "网站根目录 \/var\/www\/html ，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 2,
+            "difficult": 3,
+            "score": 500,
+            "red_score": "500.00",
+            "blue_score": "100.00",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 10,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:23",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 0,
+                "top_team": [],
+                "first_time": ""
+            },
+            "blue": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 54,
+                "top_team": [],
+                "top_team_name": [
+                    "一般通过",
+                    "圣地亚哥皮蛋",
+                    "没啥想法"
+                ],
+                "first_time": "2022-09-21 09:11:55"
+            }
+        },
+        {
+            "id": 107,
+            "source_id": 10008,
+            "title": "mvm",
+            "content": "<p>这是某个真实开源项目的stack vm，你能帮帮我吗？<\/p><p>flag路径：\/flag<\/p><p><a href=\"https:\/\/pan.baidu.com\/s\/1qfdECZhQsqQFFGmhBTr2tQ\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/jYRnhGj8\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "程序路径: \/home\/ctf\/mvm，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 1,
+            "difficult": 2,
+            "score": 500,
+            "red_score": "402.98",
+            "blue_score": "106.42",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 10,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:23",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 6,
+                "top_team": [],
+                "top_team_name": [
+                    "支持哈哈哈",
+                    "不显山安全团队",
+                    "地铺"
+                ],
+                "first_time": "2022-09-21 11:37:12"
+            },
+            "blue": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 65,
+                "top_team": [],
+                "top_team_name": [
+                    "知行网安",
+                    "警苑茶歇",
+                    "我们会下蛊"
+                ],
+                "first_time": "2022-09-21 09:02:36"
+            }
+        },
+        {
+            "id": 106,
+            "source_id": 10008,
+            "title": "diff",
+            "content": "<p>1. diff - 简化版diff命令，用法为 diff fileA fileB<\/p><p>2. launcher - 用于启动diff命令<\/p><p><a href=\"https:\/\/pan.baidu.com\/s\/1zGRe-RKSXNQDfk7haCjcBQ\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/x4KnUZa1\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "程序路径: \/home\/ctf\/diff 和 \/home\/ctf\/launcher ，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 1,
+            "difficult": 3,
+            "score": 500,
+            "red_score": "211.01",
+            "blue_score": "100.00",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 15,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:23",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 10,
+                "top_team": [],
+                "top_team_name": [
+                    "呆诺",
+                    "最后的轻语",
+                    "知行网安"
+                ],
+                "first_time": "2022-09-21 10:25:11"
+            },
+            "blue": {
+                "is_answer": true,
+                "answer_time": "2022-09-21 16:13:23",
+                "team_number": 61,
+                "top_team": [],
+                "top_team_name": [
+                    "呆诺",
+                    "知行网安",
+                    "我们会下蛊"
+                ],
+                "first_time": "2022-09-21 09:23:01"
+            }
+        },
+        {
+            "id": 105,
+            "source_id": 10008,
+            "title": "杀猪盘",
+            "content": "<p>一种称为“杀猪盘”的诈骗套路正在悄然入侵我们的生活，受害者们被骗后如梦初醒，欲哭无泪。俗话说“事出反常必有妖”，感情中也是同样的道理，如果你遇到一个人，各个方面都符合甚至超出你对另一半的预期，重点是ta还特别上赶着你，那么不要高兴太早，你很可能遇到了骗子。<\/p>\r<p>flag路径：\/flag<\/p>\r\r<p><a href=\"https:\/\/pan.baidu.com\/s\/1LGEPXK1NWvm0AgI4TS8sDg\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/ZRBakD5i\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "程序路径: \/home\/ctf\/szp2 ，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 1,
+            "difficult": 2,
+            "score": 500,
+            "red_score": "262.65",
+            "blue_score": "115.90",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 10,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:23",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 18,
+                "top_team": [],
+                "top_team_name": [
+                    "小橘子真好吃",
+                    "不显山安全团队",
+                    "呆诺"
+                ],
+                "first_time": "2022-09-21 10:40:37"
+            },
+            "blue": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 58,
+                "top_team": [],
+                "top_team_name": [
+                    "知行网安",
+                    "大笨牛",
+                    "警苑茶歇"
+                ],
+                "first_time": "2022-09-21 09:06:09"
+            }
+        },
+        {
+            "id": 104,
+            "source_id": 10008,
+            "title": "赌怪",
+            "content": "这里有一个管理平台。<p>（本题下发后，请通过http访问相应的ip和port，例如 nc ip port ，改为http:\/\/ip:port\/）<\/p><p><a href=\"https:\/\/pan.baidu.com\/s\/1D1p_evXAcfv7xLxy5CX5Vg\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/vjG71NwD\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "jshERP.jar在\/app\/lib\/jshERP.jar，修补时直接替换jshERP.jar即可，程序会在替换后自动重启，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 2,
+            "difficult": 2,
+            "score": 500,
+            "red_score": "339.43",
+            "blue_score": "176.59",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 10,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:22",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 13,
+                "top_team": [],
+                "top_team_name": [
+                    "一般通过",
+                    "水彩笔",
+                    "地运"
+                ],
+                "first_time": "2022-09-21 11:47:12"
+            },
+            "blue": {
+                "is_answer": true,
+                "answer_time": "2022-09-21 14:06:03",
+                "team_number": 51,
+                "top_team": [],
+                "top_team_name": [
+                    "一般通过",
+                    "如果艾克以重来",
+                    "广师大网管"
+                ],
+                "first_time": "2022-09-21 10:21:43"
+            }
+        },
+        {
+            "id": 103,
+            "source_id": 10008,
+            "title": "simple_fish",
+            "content": "<p>高级的猎手往往以猎物的身份出现，低端的猎手只能等鱼自己上钩。<\/p><p><a href=\"https:\/\/pan.baidu.com\/s\/1AqgOnmvjxc8iZaRuX1EJVA\" target=\"_blank\">附件下载<\/a> 提取码（GAME）<a href=\"https:\/\/share.weiyun.com\/rEZOgUd1\" target=\"_blank\">备用下载<\/a><\/p>",
+            "defend": "网站根目录 \/var\/www\/html ，修补的白名单命令['mv', 'cp', 'chmod']",
+            "category_id": 2,
+            "difficult": 2,
+            "score": 500,
+            "red_score": "379.35",
+            "blue_score": "100.00",
+            "online_time": "2022-09-21 09:00:00",
+            "upload_limit": 10,
+            "tips": "",
+            "sort": 0,
+            "on_off": 1,
+            "handle_on": 1,
+            "handle_off": 2,
+            "status": 1,
+            "create_time": "2022-09-20 20:48:22",
+            "user_status": 1,
+            "category": "",
+            "red": {
+                "is_answer": false,
+                "answer_time": "",
+                "team_number": 8,
+                "top_team": [],
+                "top_team_name": [
+                    "阿娜塔斯",
+                    "不显山安全团队",
+                    "一般通过"
+                ],
+                "first_time": "2022-09-21 11:36:00"
+            },
+            "blue": {
+                "is_answer": true,
+                "answer_time": "2022-09-21 13:41:56",
+                "team_number": 77,
+                "top_team": [],
+                "top_team_name": [
+                    "嘉晚饭",
+                    "呆诺",
+                    "吉林警察学院三队"
+                ],
+                "first_time": "2022-09-21 09:11:08"
+            }
+        }
+    ]
+}
