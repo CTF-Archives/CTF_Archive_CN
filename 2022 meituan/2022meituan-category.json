@@ -1,0 +1,129 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 5,
+        "lists": [
+            {
+                "id": "988",
+                "category": "Misc",
+                "sort": "1",
+                "description": "Misc题",
+                "encrypt_category_id": "Aj4GaFBh",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1258592",
+                            "title": "CyberSpace"
+                        },
+                        {
+                            "id": "1258593",
+                            "title": "ezdct-svd"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "989",
+                "category": "Crypto",
+                "sort": "2",
+                "description": "Crypto题",
+                "encrypt_category_id": "Aj5XOQMz",
+                "question": {
+                    "total": 3,
+                    "lists": [
+                        {
+                            "id": "1258598",
+                            "title": "strange_rsa3"
+                        },
+                        {
+                            "id": "1258599",
+                            "title": "strange_rsa2"
+                        },
+                        {
+                            "id": "1258600",
+                            "title": "strange_rsa1"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "990",
+                "category": "PWN",
+                "sort": "3",
+                "description": "PWN题",
+                "encrypt_category_id": "UW0CbQQ9",
+                "question": {
+                    "total": 4,
+                    "lists": [
+                        {
+                            "id": "1258594",
+                            "title": "smtp"
+                        },
+                        {
+                            "id": "1258595",
+                            "title": "note"
+                        },
+                        {
+                            "id": "1258596",
+                            "title": "捉迷藏"
+                        },
+                        {
+                            "id": "1258597",
+                            "title": "ret2libc_aarch64"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "991",
+                "category": "Reverse",
+                "sort": "4",
+                "description": "Reverse题",
+                "encrypt_category_id": "UGxVOgY-",
+                "question": {
+                    "total": 2,
+                    "lists": [
+                        {
+                            "id": "1258590",
+                            "title": "small"
+                        },
+                        {
+                            "id": "1258591",
+                            "title": "static"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "992",
+                "category": "Web",
+                "sort": "5",
+                "description": "Web题",
+                "encrypt_category_id": "UW1XOFVu",
+                "question": {
+                    "total": 4,
+                    "lists": [
+                        {
+                            "id": "1258601",
+                            "title": "easyjava"
+                        },
+                        {
+                            "id": "1258602",
+                            "title": "babyjava"
+                        },
+                        {
+                            "id": "1258603",
+                            "title": "OnlineUnzip"
+                        },
+                        {
+                            "id": "1258604",
+                            "title": "easypickle"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
