@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 34,
+        "name": "Silver Droid",
+        "description": "Can you bypass the allowlist and blocklist verification at the same time?\n\nnc 180.184.96.131 31338",
+        "value": 1000,
+        "coin": 0,
+        "category": "Mobile",
+        "solved_count": 0,
+        "files": [
+            {
+                "tos_key": "16517b1baf69ad5a148aa57a10db4519.zip",
+                "size": 3051312
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

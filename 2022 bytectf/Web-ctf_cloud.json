@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 19,
+        "name": "ctf_cloud",
+        "description": "改编自真实漏洞环境。在云计算日益发达的今天，许多云平台依靠其基础架构为用户提供云上开发功能，允许用户构建自己的应用，但这同样存在风险。",
+        "value": 294,
+        "coin": 0,
+        "category": "Web",
+        "solved_count": 25,
+        "files": [
+            {
+                "tos_key": "ctf_cloud-19d7bf8c-af72-4ea9-872f-ed7c2eed8773.zip",
+                "size": 3698097
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}

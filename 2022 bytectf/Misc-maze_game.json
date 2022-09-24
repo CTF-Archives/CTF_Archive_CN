@@ -1,0 +1,27 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 24,
+        "name": "maze_game",
+        "description": "Find the right coin",
+        "value": 1000,
+        "coin": 0,
+        "category": "Misc",
+        "solved_count": 0,
+        "files": [
+            {
+                "tos_key": "MazeGame-81271e42-8178-480d-a762-1edd0d84ce59.apk",
+                "size": 19947209
+            }
+        ],
+        "hints": [
+            "解题不需要特殊设备"
+        ],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

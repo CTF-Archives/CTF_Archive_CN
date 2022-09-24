@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 28,
+        "name": "crazybrowser",
+        "description": "Can you escape this sandbox?\n\nnc 180.184.87.73 1337",
+        "value": 1000,
+        "coin": 0,
+        "category": "Pwn",
+        "solved_count": 0,
+        "files": [
+            {
+                "tos_key": "825918dd5e0f9443a0f6ad47154746da.zip",
+                "size": 125424916
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

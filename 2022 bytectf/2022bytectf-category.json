@@ -1,0 +1,14 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "categories": [
+            "Crypto",
+            "Pwn",
+            "Web",
+            "Misc",
+            "Reverse",
+            "Mobile"
+        ]
+    }
+}

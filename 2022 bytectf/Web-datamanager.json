@@ -1,0 +1,20 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 22,
+        "name": "datamanager",
+        "description": "make database great again",
+        "value": 1000,
+        "coin": 0,
+        "category": "Web",
+        "solved_count": 1,
+        "files": [],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}

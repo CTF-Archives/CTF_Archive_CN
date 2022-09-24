@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 32,
+        "name": "maze6d (CObf Ver.)",
+        "description": "Let your flag fly for a while",
+        "value": 1000,
+        "coin": 0,
+        "category": "Reverse",
+        "solved_count": 1,
+        "files": [
+            {
+                "tos_key": "8a9c8f57fc01229799c51391e5fd1274.zip",
+                "size": 335206
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

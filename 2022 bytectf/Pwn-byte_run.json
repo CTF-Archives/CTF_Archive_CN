@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 14,
+        "name": "byte_run",
+        "description": "Can you run away from here and sign me in?",
+        "value": 1000,
+        "coin": 0,
+        "category": "Pwn",
+        "solved_count": 0,
+        "files": [
+            {
+                "tos_key": "f44b3da4a394bd4086894e9f48cf1062.zip",
+                "size": 39995488
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}

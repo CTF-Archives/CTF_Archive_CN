@@ -1,0 +1,27 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 30,
+        "name": "Android MITM",
+        "description": "MITM, but Android.\n\nnc 180.184.96.131 30021",
+        "value": 909,
+        "coin": 0,
+        "category": "Reverse",
+        "solved_count": 2,
+        "files": [
+            {
+                "tos_key": "e95ecdaf3c2ffd32ca07b9407b1e581a.zip",
+                "size": 4330550
+            }
+        ],
+        "hints": [
+            "Some **Bytedance** code is added in the system services."
+        ],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

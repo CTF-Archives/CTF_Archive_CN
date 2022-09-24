@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 33,
+        "name": "Bronze Droid",
+        "description": "Let's try some different intent redirection.\n\nnc 180.184.96.131 31337",
+        "value": 909,
+        "coin": 0,
+        "category": "Mobile",
+        "solved_count": 2,
+        "files": [
+            {
+                "tos_key": "261a2a2c882477c007486752d6ea9fc9.zip",
+                "size": 4408791
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 20,
+        "name": "easy_groovy",
+        "description": "",
+        "value": 270,
+        "coin": 0,
+        "category": "Misc",
+        "solved_count": 28,
+        "files": [],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}

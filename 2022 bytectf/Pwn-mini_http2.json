@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 12,
+        "name": "mini_http2",
+        "description": "A diffenrent webpwn. Try to hack it.",
+        "value": 833,
+        "coin": 0,
+        "category": "Pwn",
+        "solved_count": 3,
+        "files": [
+            {
+                "tos_key": "b826b64efe3f8d3df8905a241d27c444.zip",
+                "size": 968024
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}

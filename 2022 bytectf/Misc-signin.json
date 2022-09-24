@@ -1,0 +1,20 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 25,
+        "name": "signin",
+        "description": "Welcome to ByteCTF 2022! Please sign in here.\n\n[http://180.184.70.22:23333](http://180.184.70.22:23333) / [http://180.184.70.22:23334](http://180.184.70.22:23334)",
+        "value": 50,
+        "coin": 0,
+        "category": "Misc",
+        "solved_count": 299,
+        "files": [],
+        "hints": [],
+        "writeup": "",
+        "solved": true,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": false
+    }
+}

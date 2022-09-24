@@ -1,0 +1,25 @@
+{
+    "statusCode": 0,
+    "statusMsg": "Success",
+    "data": {
+        "id": 11,
+        "name": "Choose_U_Flag",
+        "description": "握住107/100^12的希望",
+        "value": 270,
+        "coin": 0,
+        "category": "Crypto",
+        "solved_count": 28,
+        "files": [
+            {
+                "tos_key": "c08f54f495a3b622116876fdb3746cd2.zip",
+                "size": 2196
+            }
+        ],
+        "hints": [],
+        "writeup": "",
+        "solved": false,
+        "first_blood": "",
+        "permissions": true,
+        "container_flag": true
+    }
+}
