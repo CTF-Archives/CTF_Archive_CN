@@ -1,0 +1,579 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 62,
+        "lists": [
+            {
+                "id": "1356775",
+                "content": "根据《YD/T2813-2020 基础电信企业数据分类分级方法》，网络身份标识和业务订购关系经数据分级后，属于第（ ）级",
+                "title": "单选题001",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "三",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "二",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "一",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "四",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:02:54",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:02:54",
+                "is_lock": false
+            },
+            {
+                "id": "1356776",
+                "content": "根据《中华人民共和国个人信息保护法》，处理个人信息应当遵循（ ）原则，不得通过误导、欺诈、胁迫等方式处理个人信息。",
+                "title": "单选题002",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "合法、正当、公开和诚信",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "合法、正当、必要和诚信",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "合理、公平、必要和诚信",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "合理、公平、公开和诚信",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:03:53",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:03:53",
+                "is_lock": false
+            },
+            {
+                "id": "1356777",
+                "content": "依据《中华人民共和国数据安全法》，下列数据中不属于国家核心数据的是（ ）。",
+                "title": "单选题003",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "关系国民经济命脉的数据",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "关系社会利益的数据",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "关系重要民生的数据",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "关系国家安全的数据",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:04:36",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:04:36",
+                "is_lock": false
+            },
+            {
+                "id": "1356778",
+                "content": "《中华人民共和国数据安全法》指出，数据处理，包括数据的收集、存储、使用、加工、传输、提供、（ ） 等。",
+                "title": "单选题004",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "公开",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "交易",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "流通",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "跨境",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:05:12",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:05:12",
+                "is_lock": false
+            },
+            {
+                "id": "1356779",
+                "content": "以下生活习惯，容易造成个人信息泄露的是（ ）。",
+                "title": "单选题005",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "其他3个选项都有可能",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "淘汰手机未经清理，直接卖给二手货市场",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "废旧名片当垃圾丢弃",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "在微信群里上传个人身份证照片",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:02:46",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:02:46",
+                "is_lock": false
+            },
+            {
+                "id": "1356780",
+                "content": "从数据安全角度，以下说法不正确的是（ ）。",
+                "title": "单选题006",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "在安装和使用手机APP时，不用阅读隐私政策或用户协议，直接略过即可",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "仔细阅读用户协议，检查软件的读取权限，防止非法收集个人信息",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "及时将软件更新到最新版，保证修复已知漏洞，防止网络攻击",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "不需要共享热点时，要及时关闭共享热点功能",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:02:58",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:02:58",
+                "is_lock": false
+            },
+            {
+                "id": "1356781",
+                "content": "《中华人民共和国数据安全法》规定，重要数据的处理者应当按照规定对其数据处理活动定期开展风险评估，并向有关主管部门报送（ ）。",
+                "title": "单选题007",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "风险评估报告",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "风险报告单",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "数据安全风险清单",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "风险自查列表",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "安全知识",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:16:39",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:16:39",
+                "is_lock": false
+            },
+            {
+                "id": "1356782",
+                "content": "根据《网络数据安全管理条例（征求意见稿）》规定，发生重要数据或者（ ） 以上个人信息泄露、毁损、丢失等数据安全事件时¼æ°æ®å¤çèè¿åºå½å±¥è¡ä»¥ä¸ä¹å¡ï¼ï¼ä¸ï¼å¨åçå®å¨äºä»¶çå«å°æ¶ååè®¾åºçå¸çº§ç½ä¿¡é¨é¨åæå³ä¸»ç®¡é¨é¨æ¥åäºä»¶åºæ¬ä¿¡æ¯ï¼åæ¬æ¶åçæ°æ®æ°éãç±»åãå¯è½çå½±åãå·²ç»ææéåçå¤ç½®æªæ½ç­ï¼ï¼äºï¼å¨äºä»¶å¤ç½®å®æ¯åäºä¸ªå·¥ä½æ¥ååè®¾åºçå¸çº§ç½ä¿¡é¨é¨åæå³ä¸»ç®¡é¨é¨æ¥ååæ¬äºä»¶åå ãå±å®³åæãè´£ä»»å¤çãæ¹è¿æªæ½ç­æåµçè°æ¥è¯ä¼°æ¥åã",
+                "title": "åéé¢008",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "50ä¸äºº",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "5ä¸äºº",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "20ä¸äºº",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "10ä¸äºº",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "å®å¨ç¥è¯",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:17:29",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:17:29",
+                "is_lock": false
+            },
+            {
+                "id": "1356783",
+                "content": "æ ¹æ®2022å¹´2æãå·¥ä¸åä¿¡æ¯åé¢åæ°æ®å®å¨ç®¡çåæ³ï¼è¯è¡ï¼ï¼å¾æ±æè§ç¨¿ï¼ãï¼å·¥ä¸åä¿¡æ¯åé¢åæ°æ®å¤çèåºå½å¨æ°æ®å¨çå½å¨æå¤çè¿ç¨ä¸­ï¼è®°å½æ°æ®å¤çãæéç®¡çãäººåæä½ç­æ¥å¿ãæ¥å¿çå­æ¶é´ä¸å°äºï¼ ï¼ ã",
+                "title": "åéé¢009",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "6ä¸ªæ",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "12ä¸ªæ",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "3ä¸ªæ",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "9ä¸ªæ",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "å®å¨ç¥è¯",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:18:26",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:18:26",
+                "is_lock": false
+            },
+            {
+                "id": "1356784",
+                "content": "ãæ°æ®å®å¨æ³ãåãç½ç»å®å¨æ³ãå¨è¿è§å¤ç½æ¹é¢é½ä½ç°äºâåç½æºå¶âï¼æ¢ç½é¨é¨åç½ä¸ªäººï¼è¿éçä¸ªäººæï¼ ï¼",
+                "title": "åéé¢010",
+                "score": "10",
+                "dynamic_score": "10",
+                "category_id": "1020",
+                "is_once": "1",
+                "online_time": "07-13 14:30:27",
+                "source_id": "178",
+                "is_docker": "0",
+                "prev_id": "0",
+                "tips": null,
+                "attachment_type": "0",
+                "docker_type": "2",
+                "is_url": "0",
+                "is_ctf": "0",
+                "question_type": "1",
+                "question_option": [
+                    {
+                        "option": "ç´æ¥è´è´£çä¸»ç®¡äººååå¶ä»ç´æ¥è´è´£äººå",
+                        "value": 1,
+                        "sn": 1
+                    },
+                    {
+                        "option": "ææç¸å³äººå",
+                        "value": 2,
+                        "sn": 2
+                    },
+                    {
+                        "option": "ä¸»ç®¡äººå",
+                        "value": 3,
+                        "sn": 3
+                    },
+                    {
+                        "option": "ç¸å³é¢å¯¼",
+                        "value": 4,
+                        "sn": 4
+                    }
+                ],
+                "industry_id": "0",
+                "is_upload": "0",
+                "upload_time": "0",
+                "is_allow_solve": "0",
+                "user_status": 0,
+                "category": "å®å¨ç¥è¯",
+                "is_answer": true,
+                "is_over": true,
+                "answer_time": "10-25 10:02:35",
+                "solved_status": true,
+                "answer_team_number": 1,
+                "top_team_name": [
+                    "T248499"
+                ],
+                "first_time": "10-25 10:02:35",
+                "is_lock": false
+            }
+        ]
+    }
+}
