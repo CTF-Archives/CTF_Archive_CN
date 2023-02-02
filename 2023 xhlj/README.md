@@ -1,4 +1,4 @@
---> [下载链接](https://github.com/Randark-JMT/CTF_Archive/releases/tag/2023-xhlj) <--
+--> [附件下载链接](https://github.com/Randark-JMT/CTF_Archive/releases/tag/2023-xhlj) <--
 
 # Web
 
