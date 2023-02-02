@@ -1,0 +1,28 @@
+第一波提示：
+WEB-real world git: https://github.com/PGYER/codefever
+MISC-机你太美: adbshell
+第二波提示：
+- MISC-机你太美: 看看找到的图片？
+- MISC-Isolated Machine Memory Analysis: 在张三的电脑上发现一张截图，看起来应该是配置跳板机时无意留下的。https://c.img.dasctf.com/images/2022117/1667786365444-ba60f1f9-54fb-4704-8ff8-896647b30774.png
+- MISC-TryToExec: 芝士Windows，芝士 Windows Container.，芝士源码 链接：https://pan.baidu.com/s/1V6AMw-ihYHiFeuf6YBSFtQ?pwd=ze59 
+提取码：ze59
+- MISC-KP-Basic: flag在麒麟系统的保险箱中，预期路径是提权然后想办法打开文件保险箱，玩玩数据安全，Try Harder。
+- CRYPTO-MyOracleTwice: MT19937随机数预测
+- REVERSE-EasyVT: 先加载驱动，再运行exe
+- CRYPTO-MyCurveErrorLearn：靶机端输出的为附件中参数信息，其他代码逻辑与附件一致
+第三波提示：
+- MISC-TryToExec：https://c.img.dasctf.com/images/202322/1675319990226-8841c3f5-90e4-41eb-9526-c82c77025d4f.png 
+- PWN-RE upnpd: 信息收集 curl IP:PORT/Public_UPNP_gatedesc.xml
+- MISC-TryToExec: 别忘了我们在 Windows 容器里：）同时如果要445，但你自己的服务器上这个端口被封锁了，你或许可以看看腾讯云特别是成都区域的机器。
+- CRYPTO-MyOracleTwice: https://cryptography-wiki.org/stream/prng/MT19937/
+- MISC-KP-Basic: 修了，但没完全修 https://www.kylinos.cn/support/loophole/patch/1876.html
+- CRYPTO-MyCurveLearn: ECHNP
+- PWN-KP-Message: 不是麒麟系统默认启动的服务，请将关注点落在麒麟系统自带的软件上
+第四波提示：
+- MISC-Isolated Machine Memory Analysis: 为什么这个Windows内存镜像是ELF格式？
+第五波提示：
+- PWN-RW upnpd: SOAP firmware upgrade checking ... 附近 / https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html
+- MISC-机你太美：在线exif
+- MISC-Isolated Machine Memory Analysis: https://github.com/volatilityfoundation/volatility/wiki/Virtual-Box-Core-Dump#meta-data
+- MISC-KP-Basic: https://gist.github.com/glzjin/e6fbff0ed2eaa92082222773a87e9fa1
+- CRYPTO-MyCurveLearn: https://www.math.auckland.ac.nz/~sgal018/BarakShaniPhD.pdf
