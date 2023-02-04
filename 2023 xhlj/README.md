@@ -2,6 +2,8 @@
 
 --> [附件下载链接](https://github.com/Randark-JMT/CTF_Archive/releases/tag/2023-xhlj) <--
 
+--> [构建好的Docker镜像](https://github.com/orgs/CTF-Archives/repositories) <--
+
 ## Web
 
 ### real_ez_node
