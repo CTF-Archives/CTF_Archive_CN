@@ -1,4 +1,4 @@
-# 2023 西湖论剑
+# 2022 西湖论剑
 
 --> [附件下载链接](https://github.com/Randark-JMT/CTF_Archive/releases/tag/2022-xhlj) <--
 
