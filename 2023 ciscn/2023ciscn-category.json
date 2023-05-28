@@ -1,0 +1,255 @@
+{
+    "code": 0,
+    "message": "操作成功",
+    "data": {
+        "total": 6,
+        "lists": [
+            {
+                "id": "1167",
+                "category": "安全知识",
+                "sort": "0",
+                "description": "安全知识",
+                "api_category_id": "6",
+                "encrypt_category_id": "VWFVMgk2VWc",
+                "question": {
+                    "total": 10,
+                    "lists": [
+                        {
+                            "id": "1529482",
+                            "title": "单选题1"
+                        },
+                        {
+                            "id": "1529483",
+                            "title": "单选题2"
+                        },
+                        {
+                            "id": "1529484",
+                            "title": "单选题3"
+                        },
+                        {
+                            "id": "1529485",
+                            "title": "单选题4"
+                        },
+                        {
+                            "id": "1529486",
+                            "title": "单选题5"
+                        },
+                        {
+                            "id": "1529487",
+                            "title": "单选题6"
+                        },
+                        {
+                            "id": "1529488",
+                            "title": "单选题7"
+                        },
+                        {
+                            "id": "1529489",
+                            "title": "单选题8"
+                        },
+                        {
+                            "id": "1529490",
+                            "title": "单选题9"
+                        },
+                        {
+                            "id": "1529491",
+                            "title": "单选题10"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1162",
+                "category": "Misc",
+                "sort": "1",
+                "description": "Misc题",
+                "api_category_id": "1",
+                "encrypt_category_id": "VWFSNVVqUWY",
+                "question": {
+                    "total": 7,
+                    "lists": [
+                        {
+                            "id": "1529536",
+                            "title": "27日_签到卡"
+                        },
+                        {
+                            "id": "1529537",
+                            "title": "pyshell"
+                        },
+                        {
+                            "id": "1529541",
+                            "title": "AdvDetPatch"
+                        },
+                        {
+                            "id": "1529544",
+                            "title": "27日_国粹"
+                        },
+                        {
+                            "id": "1529545",
+                            "title": "puzzle"
+                        },
+                        {
+                            "id": "1529546",
+                            "title": "27日_被加密的生产流量"
+                        },
+                        {
+                            "id": "1529585",
+                            "title": "网络安全人才实战能力评价现状调研问卷"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1163",
+                "category": "Crypto",
+                "sort": "2",
+                "description": "Crypto题",
+                "api_category_id": "2",
+                "encrypt_category_id": "VWFQN1doUmQ",
+                "question": {
+                    "total": 7,
+                    "lists": [
+                        {
+                            "id": "1529534",
+                            "title": "badkey2"
+                        },
+                        {
+                            "id": "1529535",
+                            "title": "badkey1"
+                        },
+                        {
+                            "id": "1529542",
+                            "title": "27日_基于国密SM2算法的密钥密文分发"
+                        },
+                        {
+                            "id": "1529543",
+                            "title": "27日_可信度量"
+                        },
+                        {
+                            "id": "1529550",
+                            "title": "27日_Sign_in_passwd"
+                        },
+                        {
+                            "id": "1529563",
+                            "title": "bb84"
+                        },
+                        {
+                            "id": "1529586",
+                            "title": "可信度量2"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1164",
+                "category": "PWN",
+                "sort": "3",
+                "description": "PWN题",
+                "api_category_id": "4",
+                "encrypt_category_id": "BjJbPFVqBTQ",
+                "question": {
+                    "total": 6,
+                    "lists": [
+                        {
+                            "id": "1529538",
+                            "title": "login"
+                        },
+                        {
+                            "id": "1529539",
+                            "title": "funcanary"
+                        },
+                        {
+                            "id": "1529540",
+                            "title": "27日_烧烤摊儿"
+                        },
+                        {
+                            "id": "1529547",
+                            "title": "27日_StrangeTalkBot"
+                        },
+                        {
+                            "id": "1529548",
+                            "title": "Shell We Go"
+                        },
+                        {
+                            "id": "1529549",
+                            "title": "27日_PDC 面壁计划管理系统2.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1165",
+                "category": "Reverse",
+                "sort": "4",
+                "description": "Reverse题",
+                "api_category_id": "5",
+                "encrypt_category_id": "UmYAZwU6WGg",
+                "question": {
+                    "total": 6,
+                    "lists": [
+                        {
+                            "id": "1529551",
+                            "title": "babyRE"
+                        },
+                        {
+                            "id": "1529552",
+                            "title": "flutterror"
+                        },
+                        {
+                            "id": "1529553",
+                            "title": "27日_PwSh"
+                        },
+                        {
+                            "id": "1529554",
+                            "title": "27日_ezbyte"
+                        },
+                        {
+                            "id": "1529555",
+                            "title": "27日_moveAside"
+                        },
+                        {
+                            "id": "1529556",
+                            "title": "ezAndroid"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1166",
+                "category": "Web",
+                "sort": "5",
+                "description": "Web题",
+                "api_category_id": "3",
+                "encrypt_category_id": "AjYGYVBvWGs",
+                "question": {
+                    "total": 6,
+                    "lists": [
+                        {
+                            "id": "1529528",
+                            "title": "27日_go_session"
+                        },
+                        {
+                            "id": "1529529",
+                            "title": "27日_DeserBug"
+                        },
+                        {
+                            "id": "1529530",
+                            "title": "BackendService"
+                        },
+                        {
+                            "id": "1529531",
+                            "title": "27日_unzip"
+                        },
+                        {
+                            "id": "1529532",
+                            "title": "dumpit"
+                        },
+                        {
+                            "id": "1529533",
+                            "title": "reading"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
